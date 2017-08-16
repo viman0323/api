@@ -1,0 +1,8 @@
+pip install flask
+pip install flask-restful
+pip install make_response
+pip install passlib
+pip install flask-sqlalchemy
+pip install flask-SQLAlchemy
+pip install config
+pip install Blueprint
